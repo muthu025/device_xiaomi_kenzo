@@ -17,7 +17,7 @@ $(call inherit-product, device/xiaomi/kenzo/full_kenzo.mk)
 
 
 # Inherit some common AOSP stuff.
-$(call inherit-product, vendor/ctosp/common.mk)
+$(call inherit-product, vendor/ctosp/config/common.mk)
 
 
 # Set those variables here to overwrite the inherited values.
