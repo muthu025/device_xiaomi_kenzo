@@ -15,4 +15,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/ctosp_kenzo.mk
-    TARGET_GAPPS_ARCH := arm64
+    
