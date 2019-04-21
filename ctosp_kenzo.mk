@@ -24,7 +24,7 @@ $(call inherit-product, vendor/aosp/common.mk)
 BOARD_VENDOR := Xiaomi
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := kenzo
-PRODUCT_NAME := aosp_kenzo
+PRODUCT_NAME := ctosp_kenzo
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_MODEL := Redmi Note 3
 TARGET_VENDOR := Xiaomi
