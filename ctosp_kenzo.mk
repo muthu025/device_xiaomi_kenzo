@@ -28,6 +28,7 @@ PRODUCT_NAME := ctosp_kenzo
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_MODEL := Redmi Note 3
 TARGET_VENDOR := Xiaomi
+TARGET_GAPPS_ARCH := arm64
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
